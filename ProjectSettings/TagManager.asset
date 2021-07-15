@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - MovingSurface
+  - Conveyor_01
+  - Conveyor_02
+  - Conveyor_03
+  - Conveyor_03A1
+  - Conveyor_03B1
+  - Conveyor_03A2
+  - Conveyor_03B2
+  - Conveyor_04A1
+  - Conveyor_04A2
+  - Conveyor_04B1
+  - Conveyor_04B2
+  - Conveyor_04
+  - Zone1
+  - Zone2
+  - Zone3
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
