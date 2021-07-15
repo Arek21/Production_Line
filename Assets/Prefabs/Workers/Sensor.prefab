@@ -13,7 +13,7 @@ GameObject:
   - component: {fileID: 3764460349529060607}
   - component: {fileID: 8969312324116980116}
   m_Layer: 0
-  m_Name: Sensor_01
+  m_Name: Sensor
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0

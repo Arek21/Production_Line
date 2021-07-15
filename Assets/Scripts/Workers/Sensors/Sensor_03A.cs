@@ -19,7 +19,7 @@ public class Sensor_03A : MonoBehaviour
         set
         {
             this.isDetected_03A = value;
-            Main_Process.sensors.sensorM001 = isDetected_03A;
+            Main_Process.sensors.sensorM003A = isDetected_03A;
         }
     }
 }
